@@ -177,9 +177,9 @@ console.log('hello Dev guild');
 
 // let sum = addTwoNumbers(8, 14)
 
-var nameOfGuild = "dev guild"
-var numberOfTimes = 3;
-var isOnline = false;
+// var nameOfGuild = "dev guild"
+// var numberOfTimes = 3;
+// var isOnline = false;
 
 
 // addTwoNumbers(2, 14)
@@ -192,7 +192,7 @@ var isOnline = false;
 function toCelsius(fehrenheit){
     // console.log("your temp in celcius is")
     // console.log( (5/9) * (fehrenheit - 32));
-    return ( (5/9) * (fehrenheit - 32));
+    // return ( (5/9) * (fehrenheit - 32));
 }
 
 // toCelsius(100);
@@ -203,16 +203,20 @@ function toCelsius(fehrenheit){
 
 // let tempC = toCelsius(100)
 
-function myFunction() {
-    let nameOfCar = "Benz"
-    console.log(nameOfCar)
-    console.log(nameOfGuild)
-}
+// function myFunction() {
+//     let nameOfCar = "Benz"
+//     console.log(nameOfCar)
+//     console.log(nameOfGuild)
+// }
 
 
-myFunction()
+// myFunction()
 // console.log(nameOfCar)
 // console.log(nameOfGuild)
 
 // wrirte afunction that take in a two parameters, which are a name(NAME) and an age(AGE): and returns the statement 
 // "welcome NAME, your age is AGE"
+
+
+//  DATE: 07/01/22
+// TOPIC JAVASCRIPT OBJECTS
