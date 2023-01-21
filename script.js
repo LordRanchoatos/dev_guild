@@ -206,32 +206,49 @@ function toCelsius(fehrenheit) {
 
 //  DATE: 07/01/22
 // TOPIC JAVASCRIPT OBJECTS
-const car = {
-  name: 'BMW',
-  year: 2022,
-  color: 'white',
-  doors: 4,
-  honk: function () {
-    return this.name + ' honk!!!';
-  },
-};
+// const car = {
+//   name: 'BMW',
+//   year: 2022,
+//   color: 'white',
+//   doors: 4,
+//   honk: function () {
+//     return this.name + ' honk!!!';
+//   },
+// };
 
-class Person {
-  constructor(firstname, lastname) {
-    this.fistname = firstname;
-    this.lastname = lastname;
-  }
-  greet() {
-    console.log(this.fistname + ' greetings!!');
-  }
-}
+// class Person {
+//   constructor(firstname, lastname) {
+//     this.fistname = firstname;
+//     this.lastname = lastname;
+//   }
+//   greet() {
+//     console.log(this.fistname + ' greetings!!');
+//   }
+// }
 
-let Lord = new Person('Dave', 'King');
-Lord.greet();
+// let Lord = new Person('Dave', 'King');
+// Lord.greet();
 
-let attendees = ['AGI', 'Lord', 'jaux', 'spiritedF'];
+// let attendees = ['AGI', 'Lord', 'jaux', 'spiritedF'];
 
-attendees.forEach((attendefirstName) => {
-  let attendee = new Person(attendefirstName, '');
-  attendee.greet();
-});
+// attendees.forEach((attendefirstName) => {
+//   let attendee = new Person(attendefirstName, '');
+//   attendee.greet();
+// });
+
+
+
+// var button = document.getElementById('date');
+// var datehere = document.getElementById('datehere');
+// var date = new Date
+
+
+// function getDate() {
+//   button.addEventListener('click', ()=> {
+//     datehere.innerHTML(date)
+//   })
+// }
+
+
+// 19/01/2023
+// Javascript strings
